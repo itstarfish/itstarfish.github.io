@@ -2,30 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Mano pirmas tinklapis</title>
-        <link>http://localhost:1313/</link>
+        <link>https://itstarfish.github.io/</link>
         <description>Recent content on Mano pirmas tinklapis</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 26 Nov 2024 08:06:34 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 Nov 2024 08:06:34 +0200</lastBuildDate><atom:link href="https://itstarfish.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Mano antras puslapis</title>
-        <link>http://localhost:1313/posts/antras/</link>
+        <link>https://itstarfish.github.io/posts/antras/</link>
         <pubDate>Tue, 26 Nov 2024 08:06:34 +0200</pubDate>
         
-        <guid>http://localhost:1313/posts/antras/</guid>
+        <guid>https://itstarfish.github.io/posts/antras/</guid>
         <description>&lt;figure&gt;&lt;img src=&#34;https://t4.ftcdn.net/jpg/01/77/45/71/240_F_177457134_fSsyaOc8i3P0e0ploeMNiw9yx2R88lqd.jpg&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;paveikslėlis&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-</description>
+&lt;p&gt;Kodo citata:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sveiki visi!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
         </item>
         <item>
         <title>Mano Pirmas puslapis</title>
-        <link>http://localhost:1313/posts/pirmas/</link>
+        <link>https://itstarfish.github.io/posts/pirmas/</link>
         <pubDate>Tue, 26 Nov 2024 07:57:04 +0200</pubDate>
         
-        <guid>http://localhost:1313/posts/pirmas/</guid>
-        <description></description>
+        <guid>https://itstarfish.github.io/posts/pirmas/</guid>
+        <description>&lt;p&gt;Tai yra mano pirmas sakinys. Kadangi antras sakinys yra čia.&lt;/p&gt;
+</description>
         </item>
         
     </channel>
