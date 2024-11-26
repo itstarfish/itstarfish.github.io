@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Mano pirmas tinklapis</title>
-    <link>https://itstarfish.github.io/</link>
-    <description>Recent content on Mano pirmas tinklapis</description>
-    <generator>Hugo -- 0.139.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 08:06:34 +0200</lastBuildDate>
-    <atom:link href="https://itstarfish.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mano antras puslapis</title>
-      <link>https://itstarfish.github.io/posts/antras/</link>
-      <pubDate>Tue, 26 Nov 2024 08:06:34 +0200</pubDate>
-      <guid>https://itstarfish.github.io/posts/antras/</guid>
-      <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://t4.ftcdn.net/jpg/01/77/45/71/240_F_177457134_fSsyaOc8i3P0e0ploeMNiw9yx2R88lqd.jpg&#34;/&gt; &lt;figcaption&gt;
-            paveikslėlis
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Mano Pirmas puslapis</title>
-      <link>https://itstarfish.github.io/posts/pirmas/</link>
-      <pubDate>Tue, 26 Nov 2024 07:57:04 +0200</pubDate>
-      <guid>https://itstarfish.github.io/posts/pirmas/</guid>
-      <description></description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mano pirmas tinklapis</title>
+        <link>https://itstarfish.github.io/</link>
+        <description>Recent content on Mano pirmas tinklapis</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 26 Nov 2024 08:06:34 +0200</lastBuildDate><atom:link href="https://itstarfish.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mano antras puslapis</title>
+        <link>https://itstarfish.github.io/posts/antras/</link>
+        <pubDate>Tue, 26 Nov 2024 08:06:34 +0200</pubDate>
+        
+        <guid>https://itstarfish.github.io/posts/antras/</guid>
+        <description>&lt;figure&gt;&lt;img src=&#34;https://t4.ftcdn.net/jpg/01/77/45/71/240_F_177457134_fSsyaOc8i3P0e0ploeMNiw9yx2R88lqd.jpg&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;paveikslėlis&lt;/h4&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Mano Pirmas puslapis</title>
+        <link>https://itstarfish.github.io/posts/pirmas/</link>
+        <pubDate>Tue, 26 Nov 2024 07:57:04 +0200</pubDate>
+        
+        <guid>https://itstarfish.github.io/posts/pirmas/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>
