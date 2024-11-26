@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Mano pirmas tinklapis</title>
-        <link>https://itstarfish.github.io/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Mano pirmas tinklapis</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 26 Nov 2024 08:06:34 +0200</lastBuildDate><atom:link href="https://itstarfish.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 Nov 2024 08:06:34 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Mano antras puslapis</title>
-        <link>https://itstarfish.github.io/posts/antras/</link>
+        <link>http://localhost:1313/posts/antras/</link>
         <pubDate>Tue, 26 Nov 2024 08:06:34 +0200</pubDate>
         
-        <guid>https://itstarfish.github.io/posts/antras/</guid>
+        <guid>http://localhost:1313/posts/antras/</guid>
         <description>&lt;figure&gt;&lt;img src=&#34;https://t4.ftcdn.net/jpg/01/77/45/71/240_F_177457134_fSsyaOc8i3P0e0ploeMNiw9yx2R88lqd.jpg&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;paveikslėlis&lt;/h4&gt;
     &lt;/figcaption&gt;
@@ -21,10 +21,10 @@
         </item>
         <item>
         <title>Mano Pirmas puslapis</title>
-        <link>https://itstarfish.github.io/posts/pirmas/</link>
+        <link>http://localhost:1313/posts/pirmas/</link>
         <pubDate>Tue, 26 Nov 2024 07:57:04 +0200</pubDate>
         
-        <guid>https://itstarfish.github.io/posts/pirmas/</guid>
+        <guid>http://localhost:1313/posts/pirmas/</guid>
         <description></description>
         </item>
         
